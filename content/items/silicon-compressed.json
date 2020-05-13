@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed silicon",
+	"description": "has uses in elctronics and in the manufacture of superconducting materials",
+	"hardness": 5,
+	"cost": 7.0,
+	"color": "#7CFC00",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.1
+}

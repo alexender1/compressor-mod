@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "compressed plastanium",
+	"description": "its complex molecular structure makes it an insulator capable of containing any source of energy, however, it is very vulnerable to heat.",
+	"hardness": 21,
+	"cost": 45.0,
+	"color": "#CBDC70",
+	"radioactivity": 0
+}

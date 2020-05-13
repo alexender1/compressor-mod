@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed scrap",
+	"description": "allows you to obtain from the best quality slag the type of item you want to choose.",
+	"hardness": 20,
+	"cost": 37,
+	"color": "#D89E70",
+	"radioactivity": 0.0
+	"explosiveness": 0.1
+
+}

@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "surge alloy compressor",
+	"description": "compresses surge alloy to obtain compressed surge alloy",
+	"health": 200,
+	"itemCapacity": 40,
+	"outputItem": {"item": "surge-alloy-compressed", "amount": 1},
+	"size": 4,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 25,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 2.2,
+		"items": {
+			"items": [
+				{ "item": "surge-alloy", "amount": 25 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 100 },
+		{ "item": "lead", "amount": 40 },
+		{ "item": "graphite", "amount": 32 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.4
+	"research": "graphite-press"
+}

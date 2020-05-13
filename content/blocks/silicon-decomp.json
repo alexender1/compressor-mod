@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "silicon decompressor",
+	"description": "decompresses compressed silicon to obtain silicon",
+	"health": 200,
+	"itemCapacity": 40,
+	"outputItem": {"item": "silicon", "amount": 10},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 10,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 5.2,
+		"items": {
+			"items": [
+				{ "item": "silicon-compressed", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 100 },
+		{ "item": "lead", "amount": 40 },
+		{ "item": "graphite", "amount": 32 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.4
+	"research": "silicon-comp"
+}

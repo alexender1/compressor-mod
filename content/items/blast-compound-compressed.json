@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed blast compound",
+	"description": "a very powerful explosive that will probably be capable of initiating nuclear fission. ",
+	"hardness": 1,
+	"cost": 15.0,
+	"color": "#D37F47",
+	"radioactivity": 0.0
+	"explosiveness": 12.0
+	"flammability": 4.0
+}

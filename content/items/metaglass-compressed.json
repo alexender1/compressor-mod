@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Compressed metaglass",
+	"description": " this object has very interesting electro-optical properties that open new ways in advanced electronics and lasers.",
+	"hardness": 10,
+	"cost": 2.6,
+	"color": "#C3C3C3",
+	"radioactivity": 0.0
+	"explosiveness": 0.1
+	"flammability": 0.0
+}

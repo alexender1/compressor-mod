@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Copressed-lead",
+	"description": "Because of the extreme density of this material it can collapse into a black hole if exposed to a strong electromagnetic field",
+	"hardness": 12,
+	"cost": 2,
+	"color": "#936FFB",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}

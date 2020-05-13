@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Compressed graphite",
+	"description": "once compressed this material has the right density to be converted into a grapheme membrane. ",
+	"hardness": 12,
+	"cost": 1.8,
+	"color": "#7E9BD7",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}

@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed surge alloy",
+	"description": "the compressed surge-alloy has a thin layer of subquantum binary instability which, when in ultra-fast rotation generates antimatter ",
+	"hardness": 30,
+	"cost": 1.2,
+	"color": "#E8D174",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.08
+}

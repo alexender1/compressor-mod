@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed spore pod",
+	"description": "the only use envisaged for the moment is in the field of mass oil production",
+	"hardness": 6,
+	"cost": 1.5,
+	"color": "#b4c4ca",
+	"radioactivity": 0.0
+	"explosiveness": 0.8
+	"flammability": 11.5
+}

@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed thorium",
+	"description": "Compressed thorium has a great weight and hardness but cannot be added to electronics because of parasitic radiation which can block the transmission of electrons. ",
+	"hardness": 20,
+	"cost": 15.0,
+	"color": "#FFBFFF",
+	"radioactivity": 10.0
+	"explosiveness": 0.1
+	"flammability": 0.0
+}

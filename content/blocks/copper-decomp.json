@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "copper decompressor",
+	"description": "decompresses compressed copper to obtain copper",
+	"health": 200,
+	"itemCapacity": 40,
+	"outputItem": {"item": "copper", "amount": 10},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 10,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.2,
+		"items": {
+			"items": [
+				{ "item": "copper-compressed", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 100 },
+		{ "item": "lead", "amount": 40 },
+		{ "item": "graphite", "amount": 32 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.4
+	"research": "copper-comp"
+}

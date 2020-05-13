@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed pyratite",
+	"description": "is too dangerous to be used as fuel in its current state. ",
+	"hardness": 1,
+	"cost": 15.0,
+	"color": "#D37F47",
+	"radioactivity": 0.0
+	"explosiveness": 4.0
+	"flammability": 14.0
+}

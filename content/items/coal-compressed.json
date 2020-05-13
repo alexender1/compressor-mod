@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "compressed coal",
+	"description": "the compression system is not the same as for graphite and is reversible it can also be used to obtain diamond. ",
+	"hardness": 20,
+	"cost": 32.0,
+	"color": "#333333",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 10.0
+}
